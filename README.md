@@ -19,16 +19,6 @@ This tutorial covers:
 - Real-world industrial deployments and future potential
 - Insights into next-generation recommender systems
 
-## How to Enable GitHub Pages
-
-1. Go to your repository Settings page
-2. Scroll down to the "Pages" section
-3. Under "Source", select "Deploy from a branch"
-4. Select the "main" branch
-5. Click "Save"
-
-Your website will be available at `https://linjianghao.github.io/KDD25-DiffRec-Tutorial/` after a few minutes.
-
 ## Resources
 
 - **Related Repository**: [Awesome Diffusion for RecSys](https://github.com/CHIANGEL/Awesome-Diffusion-for-RecSys) - A comprehensive collection of papers and resources on diffusion models for recommender systems.
