@@ -6,7 +6,7 @@ This repository contains materials for the KDD 2025 tutorial on diffusion models
 
 ## Online Access
 
-Tutorial Website: [https://linjianghao.github.io/KDD25-DiffRec-Tutorial/](https://linjianghao.github.io/KDD25-DiffRec-Tutorial/)
+Tutorial Website: [https://chiangel.github.io/KDD25-DiffRec-Tutorial/](https://chiangel.github.io/KDD25-DiffRec-Tutorial/)
 
 ## About the Tutorial
 
